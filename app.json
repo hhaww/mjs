@@ -1,0 +1,29 @@
+{
+    "name": "Telegram cheker by @Dar4k",
+    "description": "",
+    "stack": "container",
+    "repository": "https://github.com/perdark/TeleChecker",
+    "keywords": [
+        "python",
+        "checker",
+        "telegrambot"
+    ],
+    "website": "https://github.com/perdark/TeleChecker",
+    "env": {
+        "ID": {
+            "description": "ايدي المطور",
+            "value": "",
+            "required": true
+        },
+        "USERNAME": {
+            "description": "يوزر المطور",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن االبوت",
+            "value": "",
+            "required": true
+        }
+    }
+}
